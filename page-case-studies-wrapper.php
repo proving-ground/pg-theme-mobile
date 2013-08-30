@@ -20,14 +20,20 @@ Template Name: Case Study Wrapper
             ?>
 
 <?php get_header(); ?>
-			<div class="clearfix row-fluid">
+			<div id="contentwrap">
 
 				<div class="span12 clearfix" role="main">
 
 					    <article id="post-<?php echo $pageid; ?>" role="article">
 
 
-                            <section class="post_content">
+                            <section id="cases_wrapper">
+
+                                <div id="homepage">
+                                     cvbcvbxcvb
+                                </div>
+
+
 
                                 <?php $this_page_id = $pageid; ?>
                                 <?php $page_count = 0; ?>
@@ -37,7 +43,8 @@ Template Name: Case Study Wrapper
                                 <?php query_posts(array('showposts' => 20, 'post_parent' => $this_page_id, 'post_type' => 'page')); while (have_posts()) { the_post(); ?>
                                     <?php ++$page_count; ?>
 
-                                    <div class="item  <?php if ($page_count==1) echo 'active'; ?>">
+                                    <div class="case_item  <?php if ($page_count==1) echo 'active'; ?>">
+
                                       <div id="case-Content"><?php the_content(); ?></div>
 
                                     </div>

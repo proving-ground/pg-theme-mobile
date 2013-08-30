@@ -28,7 +28,7 @@ img {height:auto;max-width:100%;}
 ul, ol {list-style:none;}
 
 /* General Styles */
-body {background:#fff;font-family:Verdana, Arial, sans-serif;font-size: 1em;line-height: 1.2em;}
+body {background:#e6e6e6;font-family:Verdana, Arial, sans-serif;font-size: 1em;line-height: 1.2em;}
 blockquote {border-left:4px solid #d54e21;margin:12px 8px;padding-left:4px;}
 h1 {font-size:1.6em;font-weight:normal;line-height:1.6em;margin:0 0 10px 0;}
 h2 {font-size:1.1em;font-weight:normal;line-height:1.2em;margin:0 0 10px 0;}
@@ -44,7 +44,11 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 
 /* Header */
 #headerwrap {width: 100%;}
-#header {background:#000;border-bottom:1px solid #ccc;padding:2px 8px 8px;}
+#header {
+    background:#dc3121;
+    border-bottom:0 solid #ccc;
+    padding:0 0 8px;
+}
 	#header h1 {color:#fff;margin:0;}
 		#header h1 a {color:#fff;text-decoration:none;}
 	#header p {color:#888;font-size:0.9em;margin:0;}
@@ -52,6 +56,20 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 
 /* Content / Posts */
 #contentwrap {width:100%;}
+
+#cases_wrapper {
+
+}
+
+#homepage {
+    background:#dc3121;
+    padding: 30px 10px 10px;
+    color: #ffffff;
+    height: 1136px;
+    font-size: 400%;
+}
+
+
 #title {background:#fff;border-bottom:1px solid #ddd;color:#000;}
 	#title h2 {padding:8px;margin:0;}
 
