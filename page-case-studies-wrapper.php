@@ -30,7 +30,11 @@ Template Name: Case Study Wrapper
                             <section id="cases_wrapper">
 
                                 <div id="homepage">
-                                     cvbcvbxcvb
+                                   Proving Ground
+                                   develops digital
+                                   products where
+                                   commercial success
+                                   is vital.
                                 </div>
 
 
