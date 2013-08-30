@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-case-studies-wrapper.php" afterPath="$PROJECT_DIR$/page-case-studies-wrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1377881720467" ignored="false" />
     <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1377886095035" ignored="false" />
     <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1377888772133" ignored="false" />
-    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1377888273786" ignored="false" />
+    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1377888887747" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="20" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-25.2">
+            <state line="64" column="30" selection-start="1979" selection-end="1979" vertical-scroll-proportion="-24.6">
               <folding />
             </state>
           </provider>
@@ -57,7 +56,7 @@
       <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="65" selection-start="630" selection-end="630" vertical-scroll-proportion="0.37941474">
+            <state line="32" column="51" selection-start="680" selection-end="680" vertical-scroll-proportion="0.39455095">
               <folding />
             </state>
           </provider>
@@ -81,8 +80,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/page-case-studies-wrapper.php" />
       </list>
     </option>
@@ -325,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="20" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-25.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="141" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
@@ -339,9 +331,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="30" selection-start="1979" selection-end="1979" vertical-scroll-proportion="-24.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="65" selection-start="630" selection-end="630" vertical-scroll-proportion="0.37941474">
+        <state line="32" column="51" selection-start="680" selection-end="680" vertical-scroll-proportion="0.39455095">
           <folding />
         </state>
       </provider>
