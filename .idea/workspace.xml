@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-case-studies-wrapper.php" afterPath="$PROJECT_DIR$/page-case-studies-wrapper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
@@ -29,7 +30,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="32" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.621118">
+            <state line="68" column="17" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.69875777">
               <folding />
             </state>
           </provider>
@@ -56,7 +57,7 @@
       <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="51" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
+            <state line="35" column="59" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -333,14 +334,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="51" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
+        <state line="35" column="59" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="32" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.621118">
+        <state line="68" column="17" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.69875777">
           <folding />
         </state>
       </provider>
