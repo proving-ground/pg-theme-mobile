@@ -35,8 +35,6 @@ Template Name: Case Study Wrapper
                                    products where   <br>
                                    commercial success  <br>
                                    is vital.
-
-                                   <button onclick='alert("height: " + window.outerHeight + " width: " + window.outerWidth);'>res</button>
                                 </div>
 
 

@@ -123,7 +123,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
 
 
 /* Large Viewports (smaller mobile and android) */
-@media only screen and (max-device-width: 480px) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 480px) {
     #cases_wrapper {
 
     }
@@ -140,7 +140,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
 
 
 /* High Resolution Screens (Retina iPhone) */
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 350px) {
     #cases_wrapper {
 
     }
@@ -150,7 +150,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
         padding: 40px 35px 10px;
         color: #ffffff;
         height: 100%;
-        font-size: 280%;
+        font-size: 260%;
         line-height: 130%;
     }
 }
