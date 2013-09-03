@@ -1,0 +1,136 @@
+/************************************************************************************
+NAV
+*************************************************************************************/
+#nav-wrap {
+    margin-top: 8px;
+    right: 0;
+}
+
+/* menu icon */
+#menu-icon {
+    display: none; /* hide menu icon initially */
+}
+
+#nav,
+#nav li {
+    margin: 0;
+    padding: 0;
+}
+#nav li {
+    list-style: none;
+    float: left;
+    margin-right: 5px;
+}
+
+/* nav link */
+#nav a {
+    padding: 4px 15px;
+    display: block;
+    color: #000;
+    background: #ecebeb;
+}
+#nav a:hover {
+    background: #f8f8f8;
+}
+
+/* nav dropdown */
+#nav ul {
+    background: #fff;
+    padding: 2px;
+    position: absolute;
+    border: solid 1px #ccc;
+    display: none; /* hide dropdown */
+    width: 200px;
+}
+#nav ul li {
+    float: none;
+    margin: 0;
+    padding: 0;
+}
+#nav li:hover > ul {
+    display: block; /* show dropdown on hover */
+}
+
+/************************************************************************************
+MOBILE
+*************************************************************************************/
+@media screen and (max-width: 600px) {
+
+    /* nav-wrap */
+    #nav-wrap {
+        position: absolute;
+    }
+
+    /* menu icon */
+    #menu-icon {
+        background: url("../img/ico-nav-menu.png") no-repeat scroll 10px center transparent;
+        border: 0 none;
+        color: #000000;
+        cursor: pointer;
+        display: block;
+        height: 30px;
+        padding: 8px 10px 0 34px;
+        width: 30px;
+    }
+    #menu-icon:hover {
+        background-color: #f8f8f8;
+    }
+    #menu-icon.active {
+        background-color: #bbb;
+    }
+
+    /* main nav */
+    #nav {
+        background: none repeat scroll 0 0 #F8F8F8;
+        border: 0 none;
+        clear: both;
+        display: none;
+        padding: 5px;
+        position: absolute;
+        right: 0;
+        top: 30px;
+        width: 160px;
+        z-index: 10000;
+    }
+    #nav li {
+        clear: both;
+        float: none;
+        margin: 5px 0 5px 10px;
+    }
+    #nav a,
+    #nav ul a {
+        font: inherit;
+        background: none;
+        display: inline;
+        padding: 0;
+        color: #666;
+        border: none;
+    }
+    #nav a:hover,
+    #nav ul a:hover {
+        background: none;
+        color: #000;
+    }
+
+    /* dropdown */
+    #nav ul {
+        width: auto;
+        position: static;
+        display: block;
+        border: none;
+        background: inherit;
+    }
+    #nav ul li {
+        margin: 3px 0 3px 15px;
+    }
+
+}
+
+@media screen and (min-width: 600px) {
+
+    /* ensure #nav is visible on desktop version */
+    #nav {
+        display: block !important;
+    }
+
+}

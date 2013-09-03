@@ -35,17 +35,44 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="height=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<link href="<?php bloginfo( 'template_url' ); ?>/style.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
-	<link rel="icon" type="image/gif" href="<?php bloginfo( 'template_url' ); ?>/img/favicon.gif" />
+	<link href="<?php bloginfo( 'template_url' ); ?>/css/nav.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
+    	<link rel="icon" type="image/gif" href="<?php bloginfo( 'template_url' ); ?>/img/favicon.gif" />
 	<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
 	<script type="text/javascript">window.addEventListener('load',function(){setTimeout(function(){window.scrollTo(0, 0);},0);});</script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+	<script type="text/javascript">
+    jQuery(document).ready(function($){
+
+    	/* prepend menu icon */
+    	$('#nav-wrap').prepend('<div id="menu-icon"></div>');
+
+    	/* toggle nav */
+    	$("#menu-icon").on("click", function(){
+    		$("#nav").slideToggle();
+    		$(this).toggleClass("active");
+    	});
+
+    });
+    </script>
 </head>
 <body>
 
 <div id="headerwrap">
 	<div id="header">
+
+		<nav id="nav-wrap">
+
+        	<ul id="nav">
+        		<li><a href="homepage">Home</a></li>
+        		<li><a href="about-mobile">About</a></li>
+        		<li><a href="blog">Blog</a></li>
+        		<li><a href="contact-mobile">Contact</a></li>
+        	</ul>
+
+        </nav>
 		<img src="<?php bloginfo( 'template_url' ); ?>/img/pg-logo-mobile.png" />
 
 		<!--<h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a></h1>
