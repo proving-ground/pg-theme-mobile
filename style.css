@@ -69,7 +69,14 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
     font-size: 325%;
     line-height: 130%;
 }
-
+#homepage table {
+    width: 100%;
+    margin-top: 30px;;
+}
+#homepage table td {
+    font-size: 50%;
+    line-height: 30px;
+}
 
 #title {background:#fff;border-bottom:1px solid #ddd;color:#000;}
 	#title h2 {padding:8px;margin:0;}

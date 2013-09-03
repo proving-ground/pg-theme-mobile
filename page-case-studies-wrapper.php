@@ -35,6 +35,25 @@ Template Name: Case Study Wrapper
                                    products where   <br>
                                    commercial success  <br>
                                    is vital.
+                                   <table>
+                                      <tr>
+                                        <td align="center">
+                                        <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-contact.png" />
+                                        <br>
+                                        Contact Us
+                                        </td>
+                                        <td align="center">
+                                        <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-directions.png" />
+                                        <br>
+                                        Directions
+                                        </td>
+                                        <td align="center">
+                                        <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-about.png" />
+                                        <br>
+                                        About us
+                                        </td>
+                                      </tr>
+                                   </table>
                                 </div>
 
 
