@@ -125,7 +125,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
 /* Large Viewports (smaller mobile and android) */
 @media only screen and (max-device-width: 480px) {
     #cases_wrapper {
-        height: 500px;
+        height: 480px;
     }
 
     #homepage {
