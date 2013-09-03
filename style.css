@@ -151,35 +151,3 @@ ul#list li a, ol#list li a {color:#d54e21;}
         line-height: 130%;
     }
 }
-
-/* Large Viewports (iPad, wide windows) */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px), screen and (min-width: 768px) {
-    #cases_wrapper {
-        height: 1024px;
-    }
-
-    #homepage {
-        background:#dc3121;
-        padding: 40px 35px 10px;
-        color: #ffffff;
-        height: 100%;
-        font-size: 325%;
-        line-height: 130%;
-    }
-}
-
-/* High Resolution Screens and Large Viewports (Retina iPad) */
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width: 768px) and (max-device-width: 1024px), screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px) {
-    #cases_wrapper {
-        height: 1024px;
-    }
-
-    #homepage {
-        background:#dc3121;
-        padding: 40px 35px 10px;
-        color: #ffffff;
-        height: 100%;
-        font-size: 325%;
-        line-height: 130%;
-    }
-}
