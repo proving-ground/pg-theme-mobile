@@ -72,6 +72,7 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 #homepage table {
     width: 100%;
     margin-top: 30px;;
+    margin-bottom: 20px;
 }
 #homepage table td {
     font-size: 50%;

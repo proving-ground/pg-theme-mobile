@@ -54,6 +54,7 @@ Template Name: Case Study Wrapper
                                         </td>
                                       </tr>
                                    </table>
+                                   <img src="<?php bloginfo( 'template_url' ); ?>/img/homepage-arrow-case-studies.png" />
                                 </div>
 
 

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-case-studies-wrapper.php" afterPath="$PROJECT_DIR$/page-case-studies-wrapper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
@@ -10,8 +9,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378213157458" ignored="false" />
     <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378220473898" ignored="false" />
-    <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378220852911" ignored="false" />
-    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378220955113" ignored="false" />
+    <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378222096886" ignored="false" />
+    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378222132591" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="21" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.28859738">
+            <state line="74" column="24" selection-start="2193" selection-end="2193" vertical-scroll-proportion="0.30373362">
               <folding />
             </state>
           </provider>
@@ -49,7 +48,7 @@
       <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="40" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0">
+            <state line="55" column="100" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -394,14 +393,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="40" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0">
+        <state line="55" column="100" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="21" selection-start="2167" selection-end="2167" vertical-scroll-proportion="0.28859738">
+        <state line="74" column="24" selection-start="2193" selection-end="2193" vertical-scroll-proportion="0.30373362">
           <folding />
         </state>
       </provider>
