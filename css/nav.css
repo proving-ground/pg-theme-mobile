@@ -74,9 +74,6 @@ MOBILE
         padding: 8px 10px 0 34px;
         width: 30px;
     }
-    #menu-icon:hover {
-        background-color: #f8f8f8;
-    }
     #menu-icon.active {
         background-color: #bbb;
     }
