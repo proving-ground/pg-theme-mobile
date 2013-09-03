@@ -1,8 +1,14 @@
 
 		<div id="footerwrap">
 			<div id="footer">
-				<p><a href="#header">Top</a> | <a href="?nomobile">View Desktop Version</a></p>
-				<p>Powered By <a href="http://wordpress.org">WordPress</a> and <a href="http://mobilepress.co.za">MobilePress</a></p>
+				<div id="footer-social-links">
+				   <img src="<?php bloginfo( 'template_url' ); ?>/img/icon-facebook.png" />
+				   <img src="<?php bloginfo( 'template_url' ); ?>/img/icon-google.png" />
+				   <img src="<?php bloginfo( 'template_url' ); ?>/img/icon-twitter.png" />
+				   <img src="<?php bloginfo( 'template_url' ); ?>/img/icon-linkedin.png" />
+				</div>
+				<p>&copy; <?php bloginfo('name'); ?> <?php echo date("Y"); ?></p>
+				<p><a href="privacy-policy/">Privacy Policy</a> | <a href="Contact/">Contact</a></p>
 			</div>
 		</div>
 

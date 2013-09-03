@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378235715027" ignored="false" />
+    <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378237682848" ignored="false" />
     <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228893598" ignored="false" />
     <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378224760479" ignored="false" />
-    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378223831401" ignored="false" />
+    <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238307698" ignored="false" />
     <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378230356697" ignored="false" />
     <file path="/a.dummy" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378235962209" ignored="false" />
+    <file path="/footer.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238096298" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +33,16 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="25" selection-start="2458" selection-end="2458" vertical-scroll-proportion="0.0">
+            <state line="140" column="30" selection-start="4247" selection-end="4247" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="4" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.42467138">
+            <state line="53" column="47" selection-start="1915" selection-end="1915" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +60,7 @@
       <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="123" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+            <state line="38" column="110" selection-start="1072" selection-end="1142" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="8" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
+            <state line="2" column="29" selection-start="45" selection-end="408" vertical-scroll-proportion="0.03033367">
               <folding />
             </state>
           </provider>
@@ -100,12 +102,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/page-case-studies-wrapper.php" />
         <option value="$PROJECT_DIR$/page.php" />
         <option value="$PROJECT_DIR$/css/nav.css" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/footer.php" />
       </list>
     </option>
   </component>
@@ -408,30 +410,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="25" selection-start="2458" selection-end="2458" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="70" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="123" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -445,7 +426,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="4" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.42467138">
+        <state line="53" column="47" selection-start="1915" selection-end="1915" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="110" selection-start="1072" selection-end="1142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="30" selection-start="4247" selection-end="4247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="45" selection-end="408" vertical-scroll-proportion="0.03033367">
           <folding />
         </state>
       </provider>

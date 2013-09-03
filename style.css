@@ -136,10 +136,13 @@ ul#list li a, ol#list li a {color:#d54e21;}
 /* Footer */
 #search {background:#fff;padding:8px;}
 #footerwrap {width:100%;}
-#footer {background:#000;border-top:1px solid #ccc;padding:8px;}
+#footer {background:#969696;border-top:1px solid #ccc;padding:8px;}
 	#footer p {color:#fff;font-size:0.9em;margin:0;}
-		#footer p a {color:#2583ad;}
-
+		#footer p a {color:#fff; text-decoration: none;}
+          #footer #footer-social-links {
+              right: 0;
+              float: right;
+          }
 
 
 
