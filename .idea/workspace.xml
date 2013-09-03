@@ -3,15 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/nav.css" afterPath="$PROJECT_DIR$/css/nav.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378213157458" ignored="false" />
+    <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378235715027" ignored="false" />
     <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228893598" ignored="false" />
     <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378224760479" ignored="false" />
     <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378223831401" ignored="false" />
     <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378230356697" ignored="false" />
+    <file path="/a.dummy" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378235962209" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="92" selection-start="1893" selection-end="1893" vertical-scroll-proportion="0.42381433">
+            <state line="46" column="4" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.42467138">
               <folding />
             </state>
           </provider>
@@ -196,7 +196,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../themes/pg-theme" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -445,7 +445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="92" selection-start="1893" selection-end="1893" vertical-scroll-proportion="0.42381433">
+        <state line="46" column="4" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.42467138">
           <folding />
         </state>
       </provider>

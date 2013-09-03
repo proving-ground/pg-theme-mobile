@@ -43,20 +43,7 @@
 	<script type="text/javascript">window.addEventListener('load',function(){setTimeout(function(){window.scrollTo(0, 0);},0);});</script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyAhBhk2MIU8E3cVTvUdt5Jnk6wwtK_8OsE"></script>
 
-    <script type="text/javascript">
-      function initialize() {
-        var latlng = new google.maps.LatLng(33.793260,-84.368849);
-        var myOptions = {
-          zoom: 18,
-          center: latlng,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-        var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-      }
-    </script>
 
 	<script type="text/javascript">
     jQuery(document).ready(function($){
