@@ -49,7 +49,7 @@ Template Name: Case Study Wrapper
                                         </a>
                                         </td>
                                         <td align="center">
-                                        <a href="about/" border="0">
+                                        <a href="about-mobile/" border="0">
                                         <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-about.png" />
                                         <br>
                                         About us
