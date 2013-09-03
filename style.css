@@ -120,12 +120,10 @@ ul#list li a, ol#list li a {color:#d54e21;}
 
 
 
-
-
-/* Large Viewports (smaller mobile and android) */
-@media only screen and (max-device-width: 480px) {
+/* High Resolution Screens (Retina iPhone) */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
     #cases_wrapper {
-        height: 480px;
+        height: 1024px;
     }
 
     #homepage {
@@ -138,10 +136,12 @@ ul#list li a, ol#list li a {color:#d54e21;}
     }
 }
 
-/* High Resolution Screens (Retina iPhone) */
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+
+
+/* Large Viewports (smaller mobile and android) */
+@media only screen and (max-device-width: 480px) {
     #cases_wrapper {
-        height: 1024px;
+        height: 480px;
     }
 
     #homepage {
