@@ -2,8 +2,8 @@
 NAV
 *************************************************************************************/
 #nav-wrap {
-    margin-top: 8px;
     right: 0;
+    float: right;
 }
 
 /* menu icon */
@@ -26,11 +26,12 @@ NAV
 #nav a {
     padding: 4px 15px;
     display: block;
-    color: #000;
-    background: #ecebeb;
+    color: #fff;
+    background: none;
+    font-size: 18px;
 }
 #nav a:hover {
-    background: #f8f8f8;
+
 }
 
 /* nav dropdown */
@@ -58,6 +59,7 @@ MOBILE
 
     /* nav-wrap */
     #nav-wrap {
+        margin-top: 8px;
         position: absolute;
     }
 
