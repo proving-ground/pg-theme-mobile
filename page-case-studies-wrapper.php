@@ -22,12 +22,9 @@ Template Name: Case Study Wrapper
 <?php get_header(); ?>
 			<div id="contentwrap">
 
-				<div class="span12 clearfix" role="main">
+				<div class="clearfix" role="main">
 
-					    <article id="post-<?php echo $pageid; ?>" role="article">
-
-
-                            <section id="cases_wrapper">
+					    <div id="cases_wrapper">
 
                                 <div id="homepage">
                                    Proving Ground  <br>
@@ -38,19 +35,25 @@ Template Name: Case Study Wrapper
                                    <table>
                                       <tr>
                                         <td align="center">
+                                        <a href="contact-mobile/" border="0">
                                         <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-contact.png" />
                                         <br>
                                         Contact Us
+                                        </a>
                                         </td>
                                         <td align="center">
+                                        <a href="directions-mobile/" border="0">
                                         <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-directions.png" />
                                         <br>
                                         Directions
+                                        </a>
                                         </td>
                                         <td align="center">
+                                        <a href="about/" border="0">
                                         <img src="<?php bloginfo( 'template_url' ); ?>/img/ico-about.png" />
                                         <br>
                                         About us
+                                        </a>
                                         </td>
                                       </tr>
                                    </table>
@@ -67,24 +70,16 @@ Template Name: Case Study Wrapper
                                 <?php query_posts(array('showposts' => 20, 'post_parent' => $this_page_id, 'post_type' => 'page')); while (have_posts()) { the_post(); ?>
                                     <?php ++$page_count; ?>
 
-                                    <div class="case_item  <?php if ($page_count==1) echo 'active'; ?>">
+                                    <div class="case-item">
 
-                                      <div id="case-Content"><?php the_content(); ?></div>
+                                      <div class="case-Content"><?php the_content(); ?></div>
 
                                     </div>
 
                                 <?php } ?>
 
 
-                            </section> <!-- end article section -->
-
-                            <footer>
-
-                                <p class="clearfix"><?php the_tags('<span class="tags">' . __("Tags","bonestheme") . ': ', ', ', '</span>'); ?></p>
-
-                            </footer> <!-- end article footer -->
-
-                        </article> <!-- end article -->
+                            </div> <!-- end article section -->
 
 				</div> <!-- end #main -->
 

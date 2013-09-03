@@ -58,7 +58,16 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 #contentwrap {width:100%;}
 
 #cases_wrapper {
-    height: 480px;
+
+}
+
+.case-item {
+    background: #f2f2f2;
+}
+.case-Content {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #homepage {
@@ -68,6 +77,8 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
     height: 100%;
     font-size: 325%;
     line-height: 130%;
+
+    height: 480px;
 }
 #homepage table {
     width: 100%;
@@ -75,8 +86,13 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
     margin-bottom: 20px;
 }
 #homepage table td {
-    font-size: 50%;
+    font-size: 40%;
     line-height: 30px;
+}
+
+#homepage table td a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 #title {background:#fff;border-bottom:1px solid #ddd;color:#000;}

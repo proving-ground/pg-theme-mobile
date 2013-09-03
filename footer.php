@@ -1,4 +1,3 @@
-		<?php get_search_form(); ?>
 
 		<div id="footerwrap">
 			<div id="footer">
