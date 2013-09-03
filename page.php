@@ -12,10 +12,6 @@
 
 		<?php if ( have_posts() ): while ( have_posts() ): the_post(); ?>
 
-		<div id="title">
-			<h2><?php the_title(); ?></h2>
-		</div>
-
 		<div class="post">
 			<?php if ( has_post_thumbnail() ) : $thumbnail_url = wp_get_attachment_image_src( get_post_thumbnail_id(), 'large' ); ?>
 			<a href="<?php the_permalink(); ?>" class="thumbnail"><img src="<?php echo mopr_create_thumbnail( $thumbnail_url[0], 0, 50, 50 ); ?>" /></a>

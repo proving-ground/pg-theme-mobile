@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-case-studies-wrapper.php" afterPath="$PROJECT_DIR$/page-case-studies-wrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page.php" afterPath="$PROJECT_DIR$/page.php" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="61" selection-start="1893" selection-end="1893" vertical-scroll-proportion="0.7719475">
+            <state line="31" column="123" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="70" selection-start="95" selection-end="95" vertical-scroll-proportion="0.060544904">
               <folding />
             </state>
           </provider>
@@ -84,6 +93,7 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/page-case-studies-wrapper.php" />
+        <option value="$PROJECT_DIR$/page.php" />
       </list>
     </option>
   </component>
@@ -386,13 +396,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="25" selection-end="47" vertical-scroll-proportion="0.030272452">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="83" selection-start="1640" selection-end="1713" vertical-scroll-proportion="0.0">
@@ -416,7 +419,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="61" selection-start="1893" selection-end="1893" vertical-scroll-proportion="0.7719475">
+        <state line="31" column="123" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="70" selection-start="95" selection-end="95" vertical-scroll-proportion="0.060544904">
           <folding />
         </state>
       </provider>
