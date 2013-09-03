@@ -66,7 +66,7 @@
 		<nav id="nav-wrap">
 
         	<ul id="nav">
-        		<li><a href="homepage">Home</a></li>
+        		<li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>">Home</a></li>
         		<li><a href="about-mobile">About</a></li>
         		<li><a href="blog">Blog</a></li>
         		<li><a href="contact-mobile">Contact</a></li>

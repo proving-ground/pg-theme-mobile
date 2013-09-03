@@ -99,7 +99,7 @@ MOBILE
     }
     #nav a,
     #nav ul a {
-        font: inherit;
+        font-size: 18px;
         background: none;
         display: inline;
         padding: 0;

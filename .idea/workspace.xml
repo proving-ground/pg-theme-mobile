@@ -3,14 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/nav.css" afterPath="$PROJECT_DIR$/css/nav.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378213157458" ignored="false" />
-    <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228262786" ignored="false" />
+    <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228893598" ignored="false" />
     <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378224760479" ignored="false" />
     <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378223831401" ignored="false" />
-    <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228022826" ignored="false" />
+    <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378228572320" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="40" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.6811302">
+            <state line="56" column="45" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.5751766">
               <folding />
             </state>
           </provider>
@@ -48,7 +49,7 @@
       <file leaf-file-name="nav.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/nav.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="23" selection-start="1912" selection-end="1912" vertical-scroll-proportion="0.0">
+            <state line="90" column="42" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -428,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="23" selection-start="1912" selection-end="1912" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="123" selection-start="702" selection-end="702" vertical-scroll-proportion="0.0">
@@ -442,9 +436,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="42" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="40" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.6811302">
+        <state line="56" column="45" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.5751766">
           <folding />
         </state>
       </provider>
