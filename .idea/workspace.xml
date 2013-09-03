@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-case-studies-wrapper.php" afterPath="$PROJECT_DIR$/page-case-studies-wrapper.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
@@ -30,7 +29,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="21" selection-start="4574" selection-end="4574" vertical-scroll-proportion="0.86377394">
+            <state line="152" column="20" selection-start="4573" selection-end="4573" vertical-scroll-proportion="0.86377394">
               <folding />
             </state>
           </provider>
@@ -395,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="21" selection-start="4574" selection-end="4574" vertical-scroll-proportion="0.86377394">
+        <state line="152" column="20" selection-start="4573" selection-end="4573" vertical-scroll-proportion="0.86377394">
           <folding />
         </state>
       </provider>
