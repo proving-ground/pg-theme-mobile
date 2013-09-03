@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6326cd0c-85b8-470d-b77b-0533baa2113c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,7 +12,8 @@
     <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238307698" ignored="false" />
     <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378230356697" ignored="false" />
     <file path="/a.dummy" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378235962209" ignored="false" />
-    <file path="/footer.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238096298" ignored="false" />
+    <file path="/footer.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238992050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../themes/pg-theme/footer.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378239265184" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="45" selection-end="408" vertical-scroll-proportion="0.03033367">
+            <state line="10" column="92" selection-start="88" selection-end="671" vertical-scroll-proportion="0.15166835">
               <folding />
             </state>
           </provider>
@@ -447,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="45" selection-end="408" vertical-scroll-proportion="0.03033367">
+        <state line="10" column="92" selection-start="88" selection-end="671" vertical-scroll-proportion="0.15166835">
           <folding />
         </state>
       </provider>
