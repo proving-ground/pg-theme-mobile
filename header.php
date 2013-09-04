@@ -36,7 +36,7 @@
 	<meta name="viewport" content="height=device-width, initial-scale=1.0, maximum-scale=1.0" />
 	<link href="<?php bloginfo( 'template_url' ); ?>/style.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
 	<link href="<?php bloginfo( 'template_url' ); ?>/css/nav.css" rel="stylesheet" type="text/css" media="screen, handheld, print, projection" />
-    	<link rel="icon" type="image/gif" href="<?php bloginfo( 'template_url' ); ?>/img/favicon.gif" />
+    	<link rel="icon" type="image/gif" href="<?php bloginfo( 'template_url' ); ?>/img/favicon.ico" />
 	<link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
 
