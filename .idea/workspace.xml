@@ -7,7 +7,7 @@
     <ignored path="pg-theme-mobile.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1379009141341" ignored="false" />
-    <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1379010721166" ignored="false" />
+    <file path="/header.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1379014522251" ignored="false" />
     <file path="/page-case-studies-wrapper.php" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378390229108" ignored="false" />
     <file path="/style.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1378238307698" ignored="false" />
     <file path="/nav.css" changelist="6326cd0c-85b8-470d-b77b-0533baa2113c" time="1379010258456" ignored="false" />
@@ -64,7 +64,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="114" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.81595093">
+            <state line="77" column="156" selection-start="2757" selection-end="2757" vertical-scroll-proportion="0.78527606">
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
       <file leaf-file-name="page-case-studies-wrapper.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="110" selection-start="1072" selection-end="1142" vertical-scroll-proportion="0.0">
+            <state line="42" column="59" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -444,13 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="110" selection-start="1072" selection-end="1142" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="108" column="16" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.0">
@@ -465,9 +458,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page-case-studies-wrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="59" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="114" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.81595093">
+        <state line="77" column="156" selection-start="2757" selection-end="2757" vertical-scroll-proportion="0.78527606">
           <folding />
         </state>
       </provider>
