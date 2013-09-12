@@ -77,7 +77,7 @@
         	</ul>
 
         </nav>
-		<img src="<?php bloginfo( 'template_url' ); ?>/img/pg-logo-mobile-full.png" style="padding: 5px; height: 45px;" />
+		<img src="<?php bloginfo( 'template_url' ); ?>/img/pg-logo-mobile-full.png" style="padding: 5px; height: 55px;" />
 
 		<!--<h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a></h1>
 		<p><?php bloginfo('description'); ?></p> -->
