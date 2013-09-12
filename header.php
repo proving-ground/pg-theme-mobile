@@ -71,13 +71,13 @@
 
         	<ul id="nav">
         		<li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>">Home</a></li>
-        		<li><a href="about-mobile">About</a></li>
-        		<li><a href="blog">Blog</a></li>
-        		<li><a href="contact-mobile">Contact</a></li>
+        		<li><a href="about-mobile">About Us</a></li>
+        		<li><a href="blog">Our Blog</a></li>
+        		<li><a href="contact-mobile">Contact Us</a></li>
         	</ul>
 
         </nav>
-		<img src="<?php bloginfo( 'template_url' ); ?>/img/pg-logo-mobile.png" />
+		<img src="<?php bloginfo( 'template_url' ); ?>/img/pg-logo-mobile-full.png" style="padding: 5px; height: 45px;" />
 
 		<!--<h1><a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a></h1>
 		<p><?php bloginfo('description'); ?></p> -->

@@ -45,7 +45,7 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 /* Header */
 #headerwrap {width: 100%;}
 #header {
-    background:#dc3121;
+    background:#b9160e;
     border-bottom:0 solid #ccc;
     padding:0 0 8px;
 }
@@ -71,7 +71,7 @@ ul li, ol li {color:#333;font-size:1.0em;padding:2px;}
 }
 
 #homepage {
-    background:#dc3121;
+    background:#b9160e;
     padding: 40px 35px 10px;
     color: #ffffff;
     height: 100%;
@@ -156,7 +156,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
     }
 
     #homepage {
-        background:#dc3121;
+        background:#b9160e;
         padding: 40px 35px 10px;
         color: #ffffff;
         height: 100%;
@@ -173,7 +173,7 @@ ul#list li a, ol#list li a {color:#d54e21;}
     }
 
     #homepage {
-        background:#dc3121;
+        background:#b9160e;
         padding: 40px 35px 10px;
         color: #ffffff;
         height: 100%;
